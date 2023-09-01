@@ -1,1 +1,2 @@
 # Data_analysis_course_final_project
+关于员工离职预测的数据分析课程项目。
